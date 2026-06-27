@@ -39,7 +39,7 @@ section{
     left: 0;
     width: 100%;
     padding: 2rem 9%;
-    background: var(--bg-color);
+    background-image: linear-gradient(to right,blue,black);
     display: flex;
     justify-content: space-between;
     z-index: 100;
